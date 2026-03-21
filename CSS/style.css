@@ -2,10 +2,13 @@ h3 {
 color:blue;
 font-weight: bold;
 }
-p {
+#one {
    text-align: center;
    text-decoration: underline;
    font-weight: bold;
+   font-size: 20px;
+   line-height: 20px;
+   text-transform: capitalize;
    top: 0cm;
 color: rgb(56, 66, 57);
 }
@@ -22,3 +25,6 @@ background-color:rgb(249, 249, 155);
     color: white;
 }
 
+#one{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifh;
+}
